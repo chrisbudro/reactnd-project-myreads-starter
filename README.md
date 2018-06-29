@@ -2,7 +2,7 @@
 
 ## Usage
 
-To start application run *npm install* and *npm start* in the root directory.
+To start application run **npm install** and **npm start** in the root directory.
 
 The app will launch on the MyReads bookshelves: Currently Reading, Want to Read, and Read. You can select the arrow button on any book card and move the book to a new shelf. New books can be searched by clicking the add button in the bottom righthand corner. All books found in the search results can also be added to one of the three main bookshelves.
 
